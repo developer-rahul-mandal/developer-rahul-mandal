@@ -1,19 +1,28 @@
 <div align="center">
+<pre>
 
-```
 ██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
 ██╔══██╗██╔══██╗██║  ██║██║   ██║██║
 ██████╔╝███████║███████║██║   ██║██║
 ██╔══██╗██╔══██║██╔══██║██║   ██║██║
- ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
+ &nbsp;    ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
+ &nbsp;    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+
+</pre>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=20&pause=100000000&color=00FF88&center=true&vCenter=true&width=600&height=90&lines=Rahul+Mandal)
+ 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=888888&center=true&vCenter=true&width=600&height=40&lines=Web+Developer;Frontend+%2B+Backend;Builder+%7C+Automator+%7C+Shipper)
+
+<!-- <span align="left">
+ 
+</span> -->
 
 ### `> Building tools. Automating systems. Shipping products.`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devzooop.in-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://devzooop.in)
-[![GitHub](https://img.shields.io/badge/GitHub-developer--rahul--mandal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developer-rahul-mandal/)
-
+[![GitHub](https://img.shields.io/badge/-developer--rahul--mandal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developer-rahul-mandal/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-developer--rahul--mandal-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/developer-rahul-mandal)
 </div>
 
 ---
