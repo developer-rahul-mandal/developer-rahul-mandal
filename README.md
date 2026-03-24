@@ -20,7 +20,7 @@
 
 ### `> Building tools. Automating systems. Shipping products.`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devzooop.in-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://devzooop.in)
+[![Portfolio](https://img.shields.io/badge/-devzooop.in-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://devzooop.in)
 [![GitHub](https://img.shields.io/badge/-developer--rahul--mandal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developer-rahul-mandal/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-developer--rahul--mandal-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/developer-rahul-mandal)
 </div>
